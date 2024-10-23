@@ -1,0 +1,9 @@
+/data
+*.dat
+*.nwb
+tmp*
+__pycache__/
+.env
+.env_docker
+channelome_etl.egg*
+**/.DS_Store

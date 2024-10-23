@@ -1,0 +1,44 @@
+stages:
+ - build
+
+include:
+  - project: cs/gitlabci-templates
+    file: /build-image-using-kaniko.yml
+
+build-worker-dev-image:
+  variables:
+      KUBERNETES_CPU_LIMIT: 3         # cpu overrides. You can use millicores too, like 1 core and a half would be 1500m
+      KUBERNETES_CPU_REQUEST: 2700m   # cpu overrides. You can use millicores too, like 1 core and a half would be 1500m
+                                      # it should be OK to put less in here than in LIMIT, because CPU is more easily overcommitted than memory
+      KUBERNETES_MEMORY_LIMIT: 3Gi    # memory overrides
+      KUBERNETES_MEMORY_REQUEST: 3Gi  # memory overrides
+      BUILD_PATH: .
+  stage: build
+  extends: .build-image-using-kaniko
+  before_script:
+    - export VERSION=$CI_COMMIT_TAG
+    - export REGISTRY_IMAGE_TAG="$VERSION"
+    - 'echo "Tagging dev image with: $REGISTRY_IMAGE_TAG"'
+  only:
+    - tags
+
+sync_repo:
+  image:
+    name: bitnami/kubectl:latest
+    entrypoint: ['']
+  stage: build
+  script:
+    # This example uses the dev cluster, for the PROD cluster you need to use https://kubernetes.bbp.epfl.ch:6443 and a different $K8S_CA
+    - kubectl config set-cluster dev_cluster --server=https://kubernetesdev.bbp.epfl.ch:6443 --certificate-authority=$K8S_CA
+    - kubectl config set-context dev_cluster --cluster=dev_cluster
+    - kubectl config set-credentials pod-creator-ci --token=$SA_TOKEN
+    - kubectl config set-context dev_cluster --user=pod-creator-ci
+    - kubectl config use-context dev_cluster
+    - kubectl get pods -n bbp-ou-membranesystems  # just to test that everything is working properly
+    # You need to replace the namespace with your namespace and the selector with the label you added in your deployment
+    - POD=$(kubectl get pods -n bbp-ou-membranesystems --selector=component=hub -o=jsonpath="{.items[*].metadata.name}" | cut -d ' ' -f 1)
+    - echo $POD
+    - kubectl exec $POD -n bbp-ou-membranesystems -- sh -c 'rm -rf /jupyterhub/channelome-etl'
+    - kubectl cp ./ "$POD:/jupyterhub/channelome-etl" -n bbp-ou-membranesystems --no-preserve
+  only:
+    - main

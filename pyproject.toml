@@ -1,0 +1,81 @@
+
+[project]
+name = "channelome-etl"
+dynamic = ["version"]
+readme = "README.md"
+dependencies = [
+    "dagster",
+    "dagster-cloud",
+    "dagster-k8s",
+    "dagster-webserver",
+    "dagster-shell",
+    "dagster-postgres",
+    "dagster-slack",
+	"openpyxl",
+    "httpx",
+    "tenacity",
+    "beautifulsoup4",
+    "lxml",
+    "biopython",
+    "biopython",
+    "lxml",
+    "scholarag",
+    "langchain_community",
+    "langchain",
+    "mysql-connector-python",
+    "h5py",
+    "scipy"
+]
+
+[project.optional-dependencies]
+dev = [
+    "dagster-webserver",
+    "pytest",
+]
+
+[project.scripts]
+qpc = "qpc.__main__:main"
+
+sync_rcell_create = "syncropatch.scripts.rcell_create:main"
+sync_acell_create = "syncropatch.scripts.acell_create:main"
+sync_acells_to_csv = "syncropatch.scripts.acells_to_csv:main"
+sync_plot_exp = "syncropatch.scripts.plot_exp:main"
+sync_plot_pharma_exp = "syncropatch.scripts.plot_pharma_exp:main"
+
+igor = "igor.__main__:main"
+
+plot_stimulus = "nwb.scripts.plot_stimulus:main"
+fill_icportal_stimulus = "nwb.scripts.fill_icportal_stimulus:main"
+
+ai = "ai_discovery.__main__:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["*"]
+
+[tool.setuptools.package-data]
+nwb = ["*src/styles/*.mplstyle"]
+
+[tool.dagster]
+module_name = "channelome_etl"
+
+[tool.ruff]
+line-length = 88
+indent-width = 4
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "D", "I", "N", "S", "T", "UP", "B", "SIM", "R"]
+ignore = ["B019"]
+
+fixable = ["ALL"]
+unfixable = []
+
+[tool.ruff.format]
+docstring-code-format = true
+docstring-code-line-length = "dynamic"
+

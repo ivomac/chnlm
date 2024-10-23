@@ -1,0 +1,230 @@
+id,name,created_at,updated_at,synonyms,symbol,description,real,category
+1,Kv1.1,2010-02-03 17:40:01,2010-02-03 17:40:01,Kv1.1;kcna1;kcpvd,Kcna1,"potassium voltage-gated channel, shaker-related subfamily, member 1",0,Ionchannel
+2,Kv1.2,2010-02-03 17:40:01,2010-02-03 17:40:01,Kv1.2;kcna2;BK2;NGK1,Kcna2,"potassium voltage-gated channel, shaker-related subfamily, member 2",0,Ionchannel
+3,Kv1.3,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv1.3;kcna3,Kcna3,"potassium voltage-gated channel, shaker-related subfamily, member 3",0,Ionchannel
+4,Kv1.4,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv1.4;kcna4;kv4;RK3;RHK1;KCHAN,Kcna4,"potassium voltage-gated channel, shaker-related subfamily, member 4",0,Ionchannel
+5,Kv1.5,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv1.5;kcna5;,Kcna5,"potassium voltage-gated channel, shaker-related subfamily, member 5",0,Ionchannel
+6,Kv1.6,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv1.6;kcna6;MK1.6,Kcna6,"potassium voltage gated channel, shaker related subfamily, member 6",0,Ionchannel
+7,Kv1.7,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv1.7;kcna7;HAK6,Kcna7,"potassium voltage-gated channel, shaker-related subfamily, member 7",0,Ionchannel
+8,Kv1.8,2010-02-03 17:40:02,2023-01-31 09:44:28,Kv1.8;kcna10,Kcna10,,0,Ionchannel
+9,Kv2.1,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv2.1;kcnb1;kcr1-1;drk1pc;shab,Kcnb1,"potassium voltage gated channel, Shab-related subfamily, member 1",0,Ionchannel
+10,Kv2.2,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv2.2;kcnb2;kcnb2-A,Kcnb2,"potassium voltage gated channel, Shab-related subfamily, member 2",0,Ionchannel
+11,Kv3.1,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv4;Kv3.1;KShIIIB;NGK2-KV4;Kcnc1,Kcnc1,"potassium voltage gated channel, Shaw-related subfamily, member 1",0,Ionchannel
+12,Kv3.2,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv3.2;kcnc2;KShIIIA,Kcnc2,"potassium voltage gated channel, Shaw-related subfamily, member 2",0,Ionchannel
+13,Kv3.3,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv3.3;kcnc3;Kcr2-3;KShIIID,Kcnc3,"potassium voltage gated channel, Shaw-related subfamily, member 3",0,Ionchannel
+14,Kv3.4,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv3.4;kcnc4;Kcr2-4;KSHIIIC,Kcnc4,"potassium voltage gated channel, Shaw-related subfamily, member 4",0,Ionchannel
+15,Kv4.1,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv4.1;kcnd1;Kca2-1;mShal1;Shal,Kcnd1,"potassium voltage-gated channel, Shal-related subfamily, member 1",0,Ionchannel
+16,Kv4.2,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv4.2;kcnd2;Shal1;RK5,Kcnd2,"potassium voltage-gated channel, Shal-related subfamily, member 2",0,Ionchannel
+17,Kv4.3,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv4.3;kcnd3;Kncd3,Kcnd3,"potassium voltage-gated channel, Shal-related subfamily, member 3",0,Ionchannel
+18,Kv5.1,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv5.1;kcnf1;kh1;ik8;kcnf,Kcnf1,"potassium voltage-gated channel, subfamily F, member 1",0,Ionchannel
+19,Kv6.1,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv6.1;kcng1;kh2;kcng;k13,Kcng1,"potassium voltage-gated channel, subfamily G, member 1",0,Ionchannel
+20,Kv6.2,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv6.2;kcng2,Kcng2,"potassium voltage-gated channel, subfamily G, member 2",0,Ionchannel
+21,Kv6.3,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv6.3;kcng3;kv10.1,Kcng3,"potassium voltage-gated channel, subfamily G, member 3",0,Ionchannel
+22,Kv6.4,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv6.4;kcng4,Kcng4,"potassium voltage-gated channel, subfamily G, member 4",0,Ionchannel
+23,Kv7.1,2010-02-03 17:40:02,2023-01-30 21:12:47,KV7.1;LQT;RWS;WRS;LQT1;SQT2;ATFB1;ATFB3;JLNS1;KCNA8;KCNA9;Kv1.9;KVLQT1;KCNQ1,Kcnq1,"potassium voltage-gated channel, KQT-like subfamily, member 1",0,Ionchannel
+24,Kv7.2,2010-02-03 17:40:02,2010-02-03 17:40:02,KV7.2;EBN;BFNC;EBN1;ENB1;HNSPC;KCNA11;KVEBN1;KCNQ2,Kcnq2,"potassium voltage-gated channel, KQT-like subfamily, member 2",0,Ionchannel
+25,Kv7.3,2010-02-03 17:40:02,2010-02-03 17:40:02,KV7.3;EBN2;BFNC2;KCNQ3,Kcnq3,"potassium voltage-gated channel, KQT-like subfamily, member 3",0,Ionchannel
+26,Kv7.4,2010-02-03 17:40:02,2023-01-30 21:08:44,KV7.4;DFNA2;DFNA2A;KCNQ4,Kcnq4,"potassium voltage-gated channel, KQT-like subfamily, member 4",0,Ionchannel
+27,Kv7.5,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv7.5;KCNQ5,Kcnq5,"potassium voltage-gated channel, KQT-like subfamily, member 5",0,Ionchannel
+28,Kv8.1,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv8.1;kcnv1;HNKA,Kcnv1,"potassium channel, subfamily V, member 1",0,Ionchannel
+29,Kv8.2,2010-02-03 17:40:02,2023-01-31 09:46:33,Kv8.2;kcnv2;RCD3B,Kcnv2,"potassium channel, subfamily V, member 2",0,Ionchannel
+30,Kv9.1,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv9.1;kcns1,Kcns1,"potassium voltage-gated channel, delayed-rectifier, subfamily S, member 1",0,Ionchannel
+31,Kv9.2,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv9.2;kcns2,Kcns2,"potassium voltage-gated channel, delayed-rectifier, subfamily S, member 2",0,Ionchannel
+32,Kv9.3,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv9.3;kcns3,Kcns3,"potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3",0,Ionchannel
+33,Kv10.1,2010-02-03 17:40:02,2010-02-03 17:40:02,Kv10.1;EAG;EAG1;h-eag;MGC142269;KCNH1,Kcnh1,"potassium voltage-gated channel, subfamily H (eag-related), member 1",0,Ionchannel
+34,Kv10.2,2010-02-03 17:40:03,2010-02-03 17:40:03,Kv10.2;eag2;h-eag2;kcnh5,Kcnh5,"potassium voltage-gated channel, subfamily H (eag-related), member 5",0,Ionchannel
+35,Kv11.1,2010-02-03 17:40:03,2010-02-03 17:40:03,Kv11.1;ERG1;HERG;LQT2;SQT1;HERG1;KCNH2,Kcnh2,"potassium voltage-gated channel, subfamily H (eag-related), member 2",0,Ionchannel
+36,Kv11.2,2010-02-03 17:40:03,2010-02-03 17:40:03,Kv11.2;ERG2;HERG2;KCNH6,Kcnh6,"potassium voltage-gated channel, subfamily H (eag-related), member 6",0,Ionchannel
+37,Kv11.3,2010-02-03 17:40:03,2010-02-03 17:40:03,Kv11.3;erg3;kcnh7;HERG3,Kcnh7,"potassium voltage-gated channel, subfamily H (eag-related), member 7",0,Ionchannel
+38,Kv12.1,2010-02-03 17:40:03,2010-02-03 17:40:03,Kv12.1;ELK;ELK1;elk3;KCNH8,Kcnh8,"potassium voltage-gated channel, subfamily H (eag-related), member 8",0,Ionchannel
+39,Kv12.2,2010-02-03 17:40:03,2010-02-03 17:40:03,Kv12.2,Kcnh3,"potassium voltage-gated channel, subfamily H (eag-related), member 3",0,Ionchannel
+40,Kv12.3,2010-02-03 17:40:03,2010-02-03 17:40:03,Kv12.3,Kcnh4,"potassium voltage-gated channel, subfamily H (eag-related), member 4",0,Ionchannel
+41,Kir1.1,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir1.1;ROMK;Romk2;Kcnj1,Kcnj1,"potassium inwardly-rectifying channel, subfamily J, member 1",0,Ionchannel
+42,Kir2.1,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir2.1;IRK1;LQT7;SQT3;HHIRK1;HHBIRK1;KCNJ2,Kcnj2,"potassium inwardly-rectifying channel, subfamily J, member 2",0,Ionchannel
+43,Kir2.2,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir2.2;KCNJ12;IRK2;MB-IRK2,Kcnj12,"potassium inwardly-rectifying channel, subfamily J, member 12",0,Ionchannel
+44,Kir2.3,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir2.3;HIR;HRK1;IRK3;HIRK2,Kcnj4,"potassium inwardly-rectifying channel, subfamily J, member 4",0,Ionchannel
+45,Kir2.4,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir2.4;IRK4;Kcnj14,Kcnj14,"potassium inwardly-rectifying channel, subfamily J, member 14",0,Ionchannel
+46,Kir3.1,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir3.1;GIRK1;Kcnf3;Kcnj3,Kcnj3,"potassium inwardly-rectifying channel, subfamily J, member 3",0,Ionchannel
+47,Kir3.2,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir3.2;BIR1;GIRK2;KATP2;KCNJ7;Kcnj6,Kcnj6,"potassium inwardly-rectifying channel, subfamily J, member 6",0,Ionchannel
+48,Kir3.3,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir3.3;Girk3;Kcnj9,Kcnj9,"potassium inwardly-rectifying channel, subfamily J, member 9",0,Ionchannel
+49,Kir3.4,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir3.4;Girk4;kcnj5,Kcnj5,"potassium inwardly-rectifying channel, subfamily J, member 5",0,Ionchannel
+50,Kir4.1,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir4.1;kcnj10;BIR10;BIRK-1,Kcnj10,"potassium inwardly-rectifying channel, subfamily J, member 10",0,Ionchannel
+51,Kir4.2,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir4.2;kcnj15;irkk,Kcnj15,"potassium inwardly-rectifying channel, subfamily J, member 15",0,Ionchannel
+52,Kir5.1,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir5.1;kcnj16;BIR9,Kcnj16,"potassium inwardly-rectifying channel, subfamily J, member 16",0,Ionchannel
+53,Kir6.1,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir6.1;kcnj8;sltr;gnite;slmbr,Kcnj8,"potassium inwardly-rectifying channel, subfamily J, member 8",0,Ionchannel
+54,Kir6.2,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir6.2;kcnj11;BIR; HHF2;PHHI;IKATP;TNDM3,Kcnj11,"potassium inwardly rectifying channel, subfamily J, member 11",0,Ionchannel
+55,Kir7.1,2010-02-03 17:40:03,2010-02-03 17:40:03,Kir7.1;kcnj13,Kcnj13,"potassium inwardly-rectifying channel, subfamily J, member 13",0,Ionchannel
+61,HCN1,2010-02-03 17:40:03,2010-02-03 17:40:03,"HCN1;BCNG1;HAC-2;BCNG-1, ih1",Hcn1,hyperpolarization-activated cyclic nucleotide-gated potassium channel 1,0,Ionchannel
+62,HCN2,2010-02-03 17:40:03,2010-02-03 17:40:03,HCN2;HAC1;BCNG2;ih2,Hcn2,hyperpolarization activated cyclic nucleotide-gated potassium channel 2,0,Ionchannel
+63,HCN3,2010-02-03 17:40:03,2023-01-31 09:41:41,HCN3;Hac3;Hcn3;Bcng4;BCNG-4;ih3,Hcn3,hyperpolarization-activated cyclic nucleotide-gated potassium channel 3,0,Ionchannel
+64,HCN4,2010-02-03 17:40:04,2023-01-31 09:42:31,HCN4;hcn4;Bcng3;BCNG-3;ih4,Hcn4,hyperpolarization activated cyclic nucleotide-gated potassium channel 4,0,Ionchannel
+65,SK1,2010-02-03 17:40:04,2023-01-26 13:17:28,SK1; kcnn1; KCa2.1,Kcnn1,"potassium intermediate/small conductance calcium-activated channel, subfamily N, member 1",0,Ionchannel
+66,SK2,2010-02-03 17:40:04,2010-02-03 17:40:04,SK2;hSK2;SKCA2;KCa2.2;Kcnn2,Kcnn2,"potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2",0,Ionchannel
+67,SK3,2010-02-03 17:40:04,2010-02-03 17:40:04,SK3;hSK3;SKCA3;KCa2.3;KCNN3,Kcnn3,"potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3",0,Ionchannel
+68,Slo1,2010-02-03 17:40:04,2023-01-26 13:18:15,Slo1;Slo;BKCa;mSlo;MaxiK;mSlo1;kcnma1;BK;KCa1.1,Kcnma1,"potassium large conductance calcium-activated channel, subfamily M, alpha member 1",0,Ionchannel
+69,Slo2,2010-02-03 17:40:04,2023-01-26 13:20:23,Slo2;kcnt1;KCa4.1;SLACK;KNa1.1;Slo2.2,Kcnt1,"potassium channel, subfamily T, member 1",0,Ionchannel
+70,Slo2b,2010-02-03 17:40:04,2023-01-26 13:19:43,Slo2b;kcnt2;KNa1.2;KCa4.2;Slo2.1,Kcnt2,"potassium channel, subfamily T, member 2",0,Ionchannel
+71,Slo3,2010-02-03 17:40:04,2023-01-31 11:27:51,Slo3;kcnu1;Kcnma3;KCa5;Kcnma3;KCa5.1,Kcnu1,"potassium large conductance pH-sensitive channel, subfamily M, alpha member 3",0,Ionchannel
+72,BKβ1,2010-02-03 17:40:04,2023-03-09 14:10:19,SLO-BETA;hslo-beta;K(VCA)beta;KCNMB1;BKB1,Kcnmb1,"potassium large conductance calcium-activated channel, subfamily M, beta member 1",0,Subunit
+73,BKβ2,2010-02-03 17:40:04,2023-03-09 14:10:28,Kcmb2;Kcnmb2;BKB2,Kcnmb2,"potassium large conductance calcium-activated channel, subfamily M, beta member 2",0,Subunit
+74,BKβ3,2010-02-03 17:40:04,2023-03-09 14:10:37,kcnmb3;BKB3,Kcnmb3,"potassium large conductance calcium-activated channel, subfamily M beta member 3",0,Subunit
+75,BKβ4,2010-02-03 17:40:04,2023-03-09 14:10:50,kcnmb4;BKB4,Kcnmb4,"potassium large conductance calcium-activated channel, subfamily M, beta member 4",0,Subunit
+76,KChIP1,2010-02-03 17:40:04,2023-03-09 14:07:52,kchip1;kcnip1,kcnip1,Kv channel-interacting protein 1,0,Subunit
+77,KChIP2,2010-02-03 17:40:04,2023-03-09 14:08:03,Kchip2;kcnip2;KChIP2a;KChIP2b,kcnip2,Kv channel-interacting protein 2,0,Subunit
+78,Cav1.1,2010-02-03 17:40:04,2010-02-03 17:40:04,cacna1s;cav1.1;ca1.1;MHS5;HOKPP;hypoPP;CCHL1A3;CACNL1A3,Cacna1s,"calcium channel, voltage-dependent, L type, alpha 1S subunit",0,Ionchannel
+79,Cav1.2,2010-02-03 17:40:04,2010-02-03 17:40:04,cacna1c;cav1.2;ca1.2,Cacna1c,"calcium channel, voltage-dependent, L type, alpha 1C subunit",0,Ionchannel
+80,Cav1.3,2010-02-03 17:40:04,2010-02-03 17:40:04,cacna1d;cav1.3;ca1.3,Cacna1d,"calcium channel, voltage-dependent, L type, alpha 1D subunit",0,Ionchannel
+81,Cav1.4,2010-02-03 17:40:04,2010-02-03 17:40:04,cacna1f;cav1.4;ca1.4,Cacna1f,"calcium channel, voltage-dependent, L type, alpha 1F subunit",0,Ionchannel
+82,Cav2.1,2010-02-03 17:40:04,2010-02-03 17:40:04,ca2.1;EA2;FHM;MHP;rkr;APCA;HPCA;MHP1;SCA6;Caca1a;Cav2.1;Ccha1a;Cacnl1a4;Cacna1a,Cacna1a,"calcium channel, voltage-dependent, P/Q type, alpha 1A subunit",0,Ionchannel
+83,Cav2.2,2010-02-03 17:40:04,2010-02-03 17:40:04,ca2.2;BIII;CACNN;Cav2.2;CACNL1A5;CACNA1B,Cacna1b,"calcium channel, voltage-dependent, N type, alpha 1B subunit",0,Ionchannel
+84,Cav2.3,2010-02-03 17:40:04,2010-02-03 17:40:04,cacna1e;cav2.3;ca2.3,Cacna1e,"calcium channel, voltage-dependent, R type, alpha 1E subunit",0,Ionchannel
+85,Cav3.1,2010-02-03 17:40:04,2010-02-03 17:40:04,cacna1g;cav3.1;ca3.1;Ca(v)3.1,Cacna1g,"calcium channel, voltage-dependent, T type, alpha 1G subunit",0,Ionchannel
+86,Cav3.2,2010-02-03 17:40:04,2010-02-03 17:40:04,cacna1h;cav3.2;ca3.2;Ca(v)3.2,Cacna1h,"calcium channel, voltage-dependent, T type, alpha 1H subunit",0,Ionchannel
+87,Cav3.3,2010-02-03 17:40:04,2010-02-03 17:40:04,cacna1i;cav3.3;ca3.3;Ca(v)3.3,Cacna1i,"calcium channel, voltage-dependent, T type, alpha 1I subunit",0,Ionchannel
+88,Cavβ1,2010-02-03 17:40:04,2023-03-09 14:16:20,cacnb1;CAB1;CACNLB1;CCHLB1,cacnb1,"calcium channel, voltage-dependent, beta 1 subunit",0,Subunit
+89,Cavβ2,2010-02-03 17:40:04,2023-03-09 14:16:13,cacnb2;CACNLB2;CAVB2;Cavbeta2,cacnb2,"calcium channel, voltage-dependent, beta 2 subunit",0,Subunit
+90,Cavβ3,2010-02-03 17:40:04,2023-03-09 14:16:06,cacnb3,cacnb3,"calcium channel, voltage-dependent, beta 3 subunit",0,Subunit
+91,Cavβ4,2010-02-03 17:40:04,2023-03-09 14:16:50,cacnb4;CAB4;CACNLB4;EA5;EIG9;EJM;EJM4;EJM6,cacnb4,"calcium channel, voltage-dependent, beta 4 subunit",0,Subunit
+92,Cavγ1,2010-02-03 17:40:04,2023-03-09 14:17:13,cacng1;cacnlg,cacng1,"calcium channel, voltage-dependent, gamma subunit 1",0,Subunit
+93,Cavγ2,2010-02-03 17:40:04,2023-03-09 14:17:26,cacng2,cacng2,"calcium channel, voltage-dependent, gamma subunit 2",0,Subunit
+94,Cavγ3,2010-02-03 17:40:05,2023-03-09 14:17:37,cacng3,cacng3,"calcium channel, voltage-dependent, gamma subunit 3",0,Subunit
+95,Cavγ4,2010-02-03 17:40:05,2023-03-09 14:17:53,cacng4,cacng4,"calcium channel, voltage-dependent, gamma subunit 4",0,Subunit
+96,Cavγ5,2010-02-03 17:40:05,2023-03-09 14:18:03,cacng5,cacng5,"calcium channel, voltage-dependent, gamma subunit 5",0,Subunit
+97,Cavγ6,2010-02-03 17:40:05,2023-03-09 14:18:11,cacng6,cacng6,"calcium channel, voltage-dependent, gamma subunit 6",0,Subunit
+98,Cavγ7,2010-02-03 17:40:05,2023-03-09 14:18:20,cacng7,cacng7,"calcium channel, voltage-dependent, gamma subunit 7",0,Subunit
+99,Cavγ8,2010-02-03 17:40:05,2023-03-09 14:18:35,cacng8,cacng8,"calcium channel, voltage-dependent, gamma subunit 8",0,Subunit
+100,Cavα2δ1,2010-02-03 17:40:05,2023-03-09 14:14:36,cacna2d1,Cacna2d1,"calcium channel, voltage-dependent, alpha2/delta subunit 1",0,Subunit
+101,Cavα2δ2,2010-02-03 17:40:05,2023-03-09 14:14:45,cacna2d2,Cacna2d2,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",0,Subunit
+102,Cavα2δ3,2010-02-03 17:40:05,2023-03-09 14:14:53,cacna2d3,Cacna2d3,"calcium channel, voltage-dependent, alpha2/delta subunit 3",0,Subunit
+103,ClC1,2010-02-03 17:40:05,2023-03-07 09:54:04,clc1;clc-1;clcn1,Clcn1,chloride channel 1,0,Ionchannel
+104,ClC2,2010-02-03 17:40:05,2023-03-07 09:54:26,clc2;clc-2;clcn2,Clcn2,chloride channel 2,0,Ionchannel
+105,ClC3,2010-02-03 17:40:05,2023-03-07 09:54:35,clc3;clc-3;clcn3,Clcn3,chloride channel 3,0,Ionchannel
+106,ClC4,2010-02-03 17:40:05,2023-03-07 09:54:45,clc;clc4;clc-4;clcn4,clcn4,,0,Ionchannel
+107,ClC5,2010-02-03 17:40:05,2023-03-07 09:54:57,clc-5;clcn5,Clcn5,chloride channel 5,0,Ionchannel
+108,ClC6,2010-02-03 17:40:05,2023-03-07 09:55:05,clc-6;clcn6,Clcn6,chloride channel 6,0,Ionchannel
+109,ClC7,2010-02-03 17:40:05,2023-03-07 09:55:12,clc-7;clcn7,Clcn7,chloride channel 7,0,Ionchannel
+110,ClCA1,2010-02-03 17:40:05,2023-03-09 14:19:18,clca1;rbclca,clca1,chloride channel accessory 1,0,Subunit
+111,ClCA2,2010-02-03 17:40:05,2023-03-09 14:19:31,clca2;rbclca2,clca2,chloride channel accessory 2,0,Subunit
+112,ClCA3,2010-02-03 17:40:05,2023-03-09 14:19:41,clca3,clca3p,,0,Subunit
+113,ClCA4,2010-02-03 17:40:05,2023-03-10 10:08:56,clca4,clca4a,chloride channel accessory 4,0,Subunit
+114,ClCK1,2010-02-03 17:40:05,2010-02-03 17:40:05,clc-k1,Clcnka,chloride channel Ka,0,Ionchannel
+115,ClCK2,2010-02-03 17:40:05,2010-02-03 17:40:05,clck2;clcnkb;clc-k2L,Clcnkb,chloride channel Kb,0,Ionchannel
+116,ClIC1,2010-02-03 17:40:05,2010-02-03 17:40:05,clic1,Clic1,chloride intracellular channel 1,0,Ionchannel
+117,ClIC2,2010-02-03 17:40:05,2010-02-03 17:40:05,clic2,Clic2,chloride intracellular channel 2,0,Ionchannel
+118,ClIC3,2010-02-03 17:40:05,2010-02-03 17:40:05,clic3,Clic3,chloride intracellular channel 3,0,Ionchannel
+119,ClIC4,2010-02-03 17:40:05,2010-02-03 17:40:05,clic4,Clic4,chloride intracellular channel 4,0,Ionchannel
+120,Nav1.1,2010-02-03 17:40:05,2010-02-03 17:40:05,nav1.1;scn1a1,Scn1a,"sodium channel, voltage-gated, type I, alpha",0,Ionchannel
+121,Nav1.2,2010-02-03 17:40:05,2023-02-17 10:26:24,nav1.2;scn2a1,Scn2a,"sodium channel, voltage-gated, type II, alpha 1",0,Ionchannel
+122,Nav1.3,2010-02-03 17:40:05,2010-02-03 17:40:05,nav1.3;scn3a,Scn3a,"sodium channel, voltage-gated, type III, alpha",0,Ionchannel
+123,Nav1.4,2010-02-03 17:40:05,2010-02-03 17:40:05,nav1.4;scn4a,Scn4a,"sodium channel, voltage-gated, type IV, alpha subunit",0,Ionchannel
+124,Nav1.5,2010-02-03 17:40:06,2010-02-03 17:40:06,nav1.5;scn5a,Scn5a,"sodium channel, voltage-gated, type V, alpha subunit",0,Ionchannel
+125,Nav1.6,2010-02-03 17:40:06,2010-02-03 17:40:06,nav1.6;scn8a,Scn8a,"sodium channel, voltage gated, type VIII, alpha subunit",0,Ionchannel
+126,Nav1.7,2010-02-03 17:40:06,2023-03-01 10:39:03,nav1.7;scn9a; PN1; ETHA; NENA; FEB3B; NE-NA; GEFSP7,Scn9a,"sodium channel, voltage-gated, type IX, alpha",0,Ionchannel
+127,Nav1.8,2010-02-03 17:40:06,2023-03-30 08:45:00,nav1.8;scn10a;PN3; SNS; hPN3,Scn10a,"sodium channel, voltage-gated, type X, alpha subunit",0,Ionchannel
+128,Nav1.9,2010-02-03 17:40:06,2010-02-03 17:40:06,nav3.1;nav1.9;scn11a,Scn11a,"sodium channel, voltage-gated, type XI, alpha",0,Ionchannel
+129,Nav2.1,2010-02-03 17:40:06,2023-01-19 13:20:40,nav2.1;scn6a;nav2.3,,,0,Ionchannel
+130,Nav2.2,2010-02-03 17:40:06,2010-02-03 17:40:06,nav2.2,,,0,Ionchannel
+131,Nav2.3,2010-02-03 17:40:06,2010-02-03 17:40:06,nav2.3,,,0,Ionchannel
+133,Nav3.1,2010-02-03 17:40:06,2023-01-19 13:21:03,nav3.1,,,0,Ionchannel
+145,Kvβ1,2010-05-23 07:16:14,2023-03-09 14:07:07,"kcnab1, , KvBeta1",kcnab1,"potassium voltage-gated channel, shaker-related subfamily, beta member 1",0,Subunit
+146,Kvβ2,2010-05-23 07:16:36,2023-03-09 14:06:56,"kcnab2, KvBeta2",kcnab2,"potassium voltage-gated channel, shaker-related subfamily, beta member 2",0,Subunit
+147,TRP,2011-02-18 15:06:04,2011-02-18 15:06:04,TRP,,,0,Ionchannel
+148,TRPC,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPC,,,0,Ionchannel
+150,TRPM,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPM,,,0,Ionchannel
+151,TRPV,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPV,,,0,Ionchannel
+152,TRPA,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPA,,,0,Ionchannel
+153,TRPP,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPP,,,0,Ionchannel
+154,TRPML,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPML,,,0,Ionchannel
+155,TRPC1,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPC1,Trpc1,"transient receptor potential cation channel, subfamily C, member 1",0,Ionchannel
+156,TRPC2,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPC2,Trpc2,"transient receptor potential cation channel, subfamily C, member 2",0,Ionchannel
+157,TRPC3,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPC3,Trpc3,"transient receptor potential cation channel, subfamily C, member 3",0,Ionchannel
+158,TRPC4,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPC4,Trpc4,"transient receptor potential cation channel, subfamily C, member 4",0,Ionchannel
+159,TRPC5,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPC5,Trpc5,"transient receptor potential cation channel, subfamily C, member 5",0,Ionchannel
+160,TRPC6,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPC6,Trpc6,"transient receptor potential cation channel, subfamily C, member 6",0,Ionchannel
+161,TRPC7,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPC7,Trpc7,"transient receptor potential cation channel, subfamily C, member 7",0,Ionchannel
+165,TRPM1,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPM1,Trpm1,"transient receptor potential cation channel, subfamily M, member 1",0,Ionchannel
+166,TRPM2,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPM2,Trpm2,"transient receptor potential cation channel, subfamily M, member 2",0,Ionchannel
+167,TRPM3,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPM3,Trpm3,"transient receptor potential cation channel, subfamily M, member 3",0,Ionchannel
+168,TRPM4,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPM4,Trpm4,"transient receptor potential cation channel, subfamily M, member 4",0,Ionchannel
+169,TRPM5,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPM5,Trpm5,"transient receptor potential cation channel, subfamily M, member 5",0,Ionchannel
+170,TRPM6,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPM6,Trpm6,"transient receptor potential cation channel, subfamily M, member 6",0,Ionchannel
+171,TRPM7,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPM7,Trpm7,"transient receptor potential cation channel, subfamily M, member 7",0,Ionchannel
+172,TRPM8,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPM8,Trpm8,"transient receptor potential cation channel, subfamily M, member 8",0,Ionchannel
+173,TRPV1,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPV1,Trpv1,"transient receptor potential cation channel, subfamily V, member 1",0,Ionchannel
+174,TRPV2,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPV2,Trpv2,"transient receptor potential cation channel, subfamily V, member 2",0,Ionchannel
+175,TRPV3,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPV3,Trpv3,"transient receptor potential cation channel, subfamily V, member 3",0,Ionchannel
+176,TRPV4,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPV4,Trpv4,"transient receptor potential cation channel, subfamily V, member 4",0,Ionchannel
+177,TRPV5,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPV5,Trpv5,"transient receptor potential cation channel, subfamily V, member 5",0,Ionchannel
+178,TRPV6,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPV6,Trpv6,"transient receptor potential cation channel, subfamily V, member 6",0,Ionchannel
+179,TRPA1,2011-02-18 15:06:04,2011-02-18 15:06:04,TRPA1,Trpa1,"transient receptor potential cation channel, subfamily A, member 1",0,Ionchannel
+182,TRPP1,2011-02-18 15:06:04,2023-03-01 08:45:44,TRPP1,PkD2,,0,Ionchannel
+183,TRPP2,2011-02-18 15:06:04,2023-03-01 08:46:04,TRPP2,PkD2L1,,0,Ionchannel
+184,TRPP3,2011-02-18 15:06:04,2023-03-01 08:46:25,TRPP3,PkD2L2,,0,Ionchannel
+185,TRPML1,2011-02-18 15:06:04,2023-01-19 14:59:19,"TRPML1, Mcoln1, mucolipin TRP cation channel 1",Mcoln1,,0,Ionchannel
+186,TRPML2,2011-02-18 15:06:04,2023-01-19 15:00:16,"TRPML2, MCOLN2, mucolipin TRP cation channel 2",Mcoln2,,0,Ionchannel
+187,TRPML3,2011-02-18 15:06:04,2023-01-19 15:01:18,"TRPML3, MCOLN3, mucolipin 3",Mcoln3,,0,Ionchannel
+188,K,2011-11-09 08:01:32,2011-11-09 08:01:32,,,Potassium channel,0,Ionchannel
+189,Nav,2011-11-09 08:01:32,2022-08-31 11:51:04,,,Sodium channel,0,Ionchannel
+190,Ca,2011-11-09 08:01:32,2011-11-09 08:01:32,,,Calcium channel,0,Ionchannel
+191,Cl,2011-11-09 08:01:32,2011-11-09 08:01:32,,,Chloride channel,0,Ionchannel
+192,Kv1,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+193,Kv2,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+194,Kv3,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+195,Kv4,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+196,Kv5,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+197,Kv6,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+199,Kv8,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+200,Kv9,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+201,Kv10,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+202,Kv11,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+203,Kv12,2011-11-09 08:01:32,2011-11-09 08:01:32,,,,0,Ionchannel
+204,Kir,2011-11-09 08:01:33,2011-11-09 08:01:33,,,,0,Ionchannel
+206,HCN,2011-11-09 08:01:33,2023-01-26 13:50:21,Ih,,,0,Ionchannel
+207,KCa,2011-11-09 08:01:33,2011-11-09 08:01:33,,,,0,Ionchannel
+208,SK,2011-11-09 08:01:33,2011-11-09 08:01:33,,,,0,Ionchannel
+209,BKβ,2011-11-09 08:01:33,2023-03-08 08:52:14,,,,0,Ionchannel
+212,Cav1,2011-11-09 08:02:53,2023-01-24 12:31:49,,,,0,Ionchannel
+213,Kv7,2011-11-09 08:02:53,2023-03-06 16:58:55,,,,0,Ionchannel
+214,Kvβ,2013-04-11 11:51:00,2023-03-08 08:43:17,,,,0,Ionchannel
+215,Kvβ3,2013-04-11 11:54:10,2023-03-09 14:07:27,KCNAB3;AKR6A9;KCNA3.1B;KCNA3B;KV-BETA-3,kcnab3,"Potassium voltage-gated channel, shaker-related subfamily, beta member 3",0,Subunit
+216,Nav1,2013-04-11 14:36:45,2013-04-11 14:36:45,Nav1,,Voltage-gated Sodium channel type 1,0,Ionchannel
+217,NaG,2013-04-11 14:37:03,2023-01-20 09:55:15,Nav2,scn7a,Voltage-gated Sodium channel type 2,0,Ionchannel
+218,ClIC5,2013-11-10 14:40:41,2013-11-10 14:40:41,CLIC5; MST130; MSTP130,clic5,Chloride intracellular channel protein 5,0,Ionchannel
+219,SK4,2013-11-10 14:40:41,2013-11-10 14:40:41,KCNN4; IK1; IKCA1; KCA4; KCa3.1; SK4; hIKCa1; hKCa4; hSK4,Kcnn4,Potassium intermediate/small conductance calcium-activated channel subfamily N member 4,0,Ionchannel
+220,K2P,2013-11-10 14:40:41,2023-01-26 12:38:22,KCNK,,Potassium channel subfamily K,0,Ionchannel
+221,TWIK1,2013-11-10 14:40:41,2023-01-25 15:09:56,KCNK1; DPK; HOHO; K2P1; K2p1.1; KCNO1; TWIK-1; TWIK1,KCNK1,Potassium channel subfamily K member 1,0,Ionchannel
+222,TREK1,2013-11-10 14:40:41,2023-01-25 15:10:39,KCNK2; K2p2.1; TPKC1; TREK; TREK-1; TREK1; hTREK-1c; hTREK-1e,KCNK2,Potassium channel subfamily K member 2,0,Ionchannel
+223,TASK1,2013-11-10 14:40:41,2023-01-25 15:11:14,KCNK3; K2p3.1; OAT1; TASK-1; TBAK1,KCNK3,Potassium channel subfamily K member 3,0,Ionchannel
+224,TRAAK,2013-11-10 14:40:41,2023-01-26 12:58:18,KCNK4; K2p4.1; TRAAK; TRAAK1; TRAAK-1,KCNK4,Potassium channel subfamily K member 4,0,Ionchannel
+225,TASK2,2013-11-10 14:40:41,2023-01-25 15:12:51,KCNK5; K2p5.1; TASK-2; TASK2,KCNK5,Potassium channel subfamily K member 5,0,Ionchannel
+226,TWIK2,2013-11-10 14:40:41,2023-01-25 15:13:06,KCNK6; K2p6.1; KCNK8; TOSS; TWIK-2; TWIK2,KCNK6,Potassium channel subfamily K member 6,0,Ionchannel
+227,TWIK3,2013-11-10 14:40:41,2023-01-26 12:57:42,KCNK7; K2p7.1; TWIK3; TWIK-3,KCNK7,Potassium channel subfamily K member 7,0,Ionchannel
+229,TASK3,2013-11-10 14:40:41,2023-01-25 15:14:41,KCNK9; K2p9.1; KT3.2; TASK-3; TASK3,KCNK9,Potassium channel subfamily K member 9,0,Ionchannel
+230,TREK2,2013-11-10 14:40:41,2023-01-25 15:14:52,KCNK10; K2p10.1; TREK-2; TREK2,KCNK10,Potassium channel subfamily K member 10,0,Ionchannel
+232,THIK2,2013-11-10 14:40:41,2023-01-25 15:15:13,KCNK12; K2p12.1; THIK-2; THIK2,KCNK12,Potassium channel subfamily K member 12,0,Ionchannel
+233,THIK1,2013-11-10 14:40:41,2023-01-25 15:15:25,KCNK13; K2p13.1; THIK-1; THIK1,KCNK13,Potassium channel subfamily K member 13,0,Ionchannel
+235,TASK5,2013-11-10 14:40:41,2023-01-25 15:15:46,KCNK15; K2p15.1; KCNK11; KCNK14; KT3.3; TASK-5; TASK5; dJ781B1.1,KCNK15,Potassium channel subfamily K member 15,0,Ionchannel
+236,TALK1,2013-11-10 14:40:41,2023-01-25 15:15:55,KCNK16; K2p16.1; TALK-1; TALK1,KCNK16,Potassium channel subfamily K member 16,0,Ionchannel
+237,TALK2,2013-11-10 14:40:41,2023-01-26 12:56:52,KCNK17; K2p17.1; TALK-2; TALK2; TASK-4; TASK4,KCNK17,Potassium channel subfamily K member 17,0,Ionchannel
+238,TRESK2,2013-11-10 14:40:41,2023-01-25 15:16:18,KCNK18; K2p18.1; MGR13; TRESK; TRESK-2; TRESK2; TRIK,KCNK18,Potassium channel subfamily K member 18,0,Ionchannel
+239,CHO,2022-11-02 17:39:33,2022-11-02 17:39:33,,,Chinese Hamster Ovary Cells,0,Cell
+240,HEK,2022-11-02 17:39:33,2022-11-02 17:39:33,,,Human Embryonic Kidney 293 Cells,0,Cell
+241,CV1,2022-11-02 17:39:33,2022-11-02 17:39:33,CV-1,,Monkey kidney cell line,0,Cell
+242,KChIP3,2023-03-09 08:45:32,2023-03-09 14:08:29,,kcnip3,,0,Subunit
+243,KChIP4,2023-03-09 08:48:37,2023-03-09 14:08:52,,kcnip4,,0,Subunit
+244,KCNE1,2023-03-09 08:49:12,2023-03-09 14:09:05,,kcne1,,0,Subunit
+245,KCNE2,2023-03-09 08:49:38,2023-03-09 14:09:21,,kcne2,,0,Subunit
+246,KCNE3,2023-03-09 08:49:55,2023-03-09 14:09:35,,kcne3,,0,Subunit
+247,KCNE4,2023-03-09 08:50:44,2023-03-09 14:09:46,,kcne4,,0,Subunit
+248,KCNE5,2023-03-09 08:50:58,2023-03-09 14:09:59,,kcne5,,0,Subunit
+249,SUR1,2023-03-09 08:58:59,2023-03-09 14:13:59,,abcc8,,0,Subunit
+250,SUR2,2023-03-09 08:59:09,2023-03-09 14:14:10,,abcc9,,0,Subunit
+251,Cavα2δ4,2023-03-09 09:01:55,2023-03-09 14:15:16,,cacna2d4,,0,Subunit
+252,BKγ1,2023-03-09 09:05:27,2023-03-09 14:12:56,,lrrc26,,0,Subunit
+253,BKγ2,2023-03-09 09:05:32,2023-03-09 14:13:07,,lrrc52,,0,Subunit
+254,BKγ3,2023-03-09 09:05:37,2023-03-09 14:13:20,,lrrc55,,0,Subunit
+255,BKγ4,2023-03-09 09:05:41,2023-03-09 14:13:33,,lrrc38,,0,Subunit
+256,Navβ1,2023-03-09 09:07:18,2023-03-09 14:20:14,,scn1b,,0,Subunit
+257,Navβ2,2023-03-09 09:07:21,2023-03-09 14:20:26,,scn2b,,0,Subunit
+258,Navβ3,2023-03-09 09:07:25,2023-03-09 14:20:37,,scn3b,,0,Subunit
+259,Navβ4,2023-03-09 09:07:29,2023-03-09 14:20:49,,scn4b,,0,Subunit

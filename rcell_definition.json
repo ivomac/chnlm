@@ -1,0 +1,271 @@
+{
+    "structure": {
+        "acquisition": {
+        "timeseries": {
+            "protocol_type(first letter capital)" : {
+                "repetitions": {
+                    "repetitionID": {
+                        "_amp": {
+                            "":""
+                        },
+                        "_pharmacology": {
+                            "":""
+                        },
+                        "data": {
+                            "type": "np.array",
+                            "shape": 2
+                        },
+                        "capacitance_slow": {
+                            "type": "np.array",
+                            "shape": 1,
+                            "default": "nan"
+                        },
+                        "r_series": {
+                            "type": "np.array",
+                            "shape": 1,
+                            "default": "nan"
+                        },
+                        "head_temp": {
+                            "type": "float",
+                            "default": "nan"
+                        },
+                        "n_points": {
+                            "type": "np.array",
+                            "shape": 1
+                        },
+                        "seal": {
+                            "type": "np.array",
+                            "shape": 1
+                        },
+                        "time": {
+                            "type": "str",
+                            "format": "hour:min:sec"
+                        },
+                        "trace_times": {
+                            "type": "List[str]",
+                            "shape": 1,
+                            "format": "hour:min:sec"
+                        },
+                        "v_offset": {
+                            "type": "float",
+                            "default": "nan"
+                        },
+                        "x_interval": {
+                            "type": "UNION[float, List[flaot]]"
+                        },
+                        "x_start": {
+                            "type": "UNION[float, List[flaot]]",
+                            "default": "0"
+                        }
+                    }
+                } 
+            }
+        },
+        "_images": {"":""}
+        },
+        "_analysis": {"":""},
+        "data_release": {
+            "type": "str",
+            "format": "year.month"
+        },
+        "file_create_date": {
+            "type": "str",
+            "format": "day-month-year hour:min:sec"
+        },
+        "_epochs": {"":""},
+        "general": {
+            "cell_id": {
+                "type": "int",
+                "default": 0
+            },
+            "session_id": {
+                "type": "int",
+                "default": 0
+            },
+            "data_quality_notes": {
+                "type": "str",
+                "default": ""
+            },
+            "drn": {
+                "type": "str",
+                "format": "year.month.day"
+            },
+            "institution": {
+                "type": "str",
+                "format": "Ecole polytechnique federale de Lausanne (EPFL)"
+            },
+            "lab": {
+                "type": "str",
+                "format": "Blue Brain Project (BBP)"
+            },
+            "cell_info": {
+                "cell_countpml": {
+                    "type": "int",
+                    "default": ""
+                },
+                "cell_image": {
+                    "type": "str",
+                    "default": ""
+                },
+                "cell_stock_id": {
+                    "type": "str",
+                    "default": ""
+                },
+                "cell_suspension_medium": {
+                    "type": "str",
+                    "default": ""
+                },
+                "host_cell": {
+                    "type": "str",
+                    "default": ""
+                },
+                "passage": {
+                    "type": "str",
+                    "default": ""
+                },
+                "species": {
+                    "type": "str"
+                }
+            },
+            "channel_info": {
+                "host_cell": {
+                    "type": "str",
+                    "default": ""
+                },
+                "ion_channel": {
+                    "type": "str",
+                    "default": ""
+                },
+                "species": {
+                    "type": "str",
+                    "default": ""
+                }
+            },
+            "_code_info": {"":""},
+            "experiment": {
+                "comment": {
+                    "type": "str",
+                    "default": ""
+                },
+                "date": {
+                    "type": "str",
+                    "default": "year.month.day"
+                },
+                "doxycycline_conc": {
+                    "type": "str",
+                    "default": ""
+                },
+                "ec_id": {
+                    "type": "str",
+                    "default": ""
+                },
+                "ec_solution": {
+                    "type": "str",
+                    "default": ""
+                },
+                "ic_id": {
+                    "type": "str",
+                    "default": ""
+                },
+                "ic_solution": {
+                    "type": "str",
+                    "default": ""
+                },
+                "induction": {
+                    "type": "int",
+                    "default": 24
+                },
+                "induction_medium": {
+                    "type": "str",
+                    "default": ""
+                },
+                "nanioncsv_log": {
+                    "type": "UNION[List, str]",
+                    "default": ""
+                },
+                "project_id": {
+                    "type": "str",
+                    "default": "P0013"
+                },
+                "project_name": {
+                    "type": "str",
+                    "default": "Channelome"
+                },
+                "se_id": {
+                    "type": "str",
+                    "default": ""
+                },
+                "se_solution": {
+                    "type": "str",
+                    "default": ""
+                },
+                "temp": {
+                    "type": "str",
+                    "default": "rt"
+                },
+                "time": {
+                    "type": "str",
+                    "default": "hour.minute.sec"
+                },
+                "total_cells": {
+                    "type": "float",
+                    "default": "nan"
+                },
+                "trypsin_concentration": {
+                    "type": "string",
+                    "default": ""
+                },
+                "trypsin_time": {
+                    "type": "int",
+                    "default": "60"
+                }
+            },
+            "experimenter": {
+                "experimenter": {
+                    "type": "str",
+                    "default": ""
+                },
+                "user_email": {
+                    "type": "str",
+                    "default": ""
+                },
+                "user_initial": {
+                    "type": "str",
+                    "default": ""
+                }
+            },
+            "_heka": {"":""}
+        },
+        "stimulus": {
+            "presentation": {
+                "protocol_type": {
+                    "command": {
+                        "type": "str",
+                        "default": ""
+                    },
+                    "stim_id": {
+                        "type": "int"
+                    },
+                    "seeep_count": {
+                        "type": "int",
+                        "default": 0
+                    },
+                    "sweep_interval": {
+                        "type": "int",
+                        "default": 0
+                    },
+                    "type": {
+                        "type": "str",
+                        "default": ""
+                    }
+
+                }
+            }
+        }
+    },
+    "checks/rules": {
+        "1": "no missing repetition (every 1-n repetitions must be present)",
+        "2": "stimulus provided for each protocol type",
+        "3": "sweep count same as data column for protocol"
+    }
+}
